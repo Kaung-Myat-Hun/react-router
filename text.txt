@@ -14,3 +14,29 @@ cmd >>> git config --global user.name "github username"
 
 git init
 
+git add . 
+
+git commit -m "adding project"
+
+branch 
+code 10 5 6 
+
+branch
+git branch -M "dev"
+
+-M >> git checkout dev
+
+local >> cloud 
+
+repo link connect
+git remote add origin github repo link
+
+git push origin "branch name"
+
+
+git init 
+git add .
+git commit "commiting"
+git brach -M "branch name"
+git remote origin add github repo link
+git push origin brnach name 
