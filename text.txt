@@ -38,5 +38,21 @@ git init
 git add .
 git commit "commiting"
 git brach -M "branch name"
-git remote origin add github repo link
+git remote add origin github repo link
 git push origin brnach name 
+
+
+react router dom
+react >>> official package 
+
+npm i react-router
+npm i react-router-dom 
+
+
+react 
+Link 
+NavLink 
+
+programming lang >>>>>>>>> html (js code)
+
+redux >>> third party lib
