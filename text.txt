@@ -1,0 +1,16 @@
+VCS >>> version control system 
+
+git vs github (code store)
+
+git install >> git configuration 
+
+who ? 
+mail ?
+
+
+config 
+cmd >>> git config --global user.name "github username"
+        git config --global user.email "github email"
+
+git init
+
