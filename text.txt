@@ -56,3 +56,32 @@ NavLink
 programming lang >>>>>>>>> html (js code)
 
 redux >>> third party lib
+
+functional component lifecycle 
+
+useEffect hook
+
+class component 
+
+componentDidMount
+componentDidUpdate(prevPrors , prevState) >> infinite
+componentWillUnmount 
+
+js api fetch 
+axios 
+
+npm i axios
+
+axios >> get/ post / put / patch / delete
+
+useContext(context api)
+
+props === parent >>>> child 
+
+        (context provider) app == context api (context provider) global state 
+        compA           compB
+compC   compD       compE       compF
+context
+comC 
+comD 
+context 
