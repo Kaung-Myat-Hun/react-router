@@ -85,3 +85,16 @@ context
 comC 
 comD 
 context 
+
+context >>>> phase 3 
+create >>> done 
+provide >>> done provier // consumer
+consume >>> Context.Consumer (JSX) {callback () => {}}
+
+
+app(value) >> context >> a >> b (value)
+
+                props           x value
+
+useContext()
+useReducer() << 
